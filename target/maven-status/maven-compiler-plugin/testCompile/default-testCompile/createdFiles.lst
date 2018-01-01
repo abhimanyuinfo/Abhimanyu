@@ -1,0 +1,2 @@
+com\bloomberg\configuration\HibernateTestConfiguration.class
+com\bloomberg\controller\UploadControllerTest.class
